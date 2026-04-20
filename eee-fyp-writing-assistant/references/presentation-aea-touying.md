@@ -31,8 +31,7 @@ If critical information is missing (title, key result numbers), ask before gener
 
 ## Step 1 — Plan Slide Structure
 
-Map content to this standard FYP structure. Adjust slide count to the user's time limit
-(default: ~10 min = 10–12 content slides):
+Map content to this standard FYP structure. Adjust slide count to the user's time limit:
 
 | Slide | Section | AEA Assertion Pattern |
 |---|---|---|

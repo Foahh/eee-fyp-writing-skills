@@ -29,7 +29,7 @@ conversation. Confirm any mode change explicitly with the user.
 |---|---|---|---|
 | `report` | FYP Final Report | ≤ 100 pages (50 double-sided sheets), excluding appendices | Typst `ilm` template (`assets/ilm/lib.typ`) |
 | `paper` | Technical Paper | 9–12 pages, two-column | Typst IEEE-style template (`assets/ieee/lib.typ`) + `akatable` |
-| `presentation` | Oral Presentation | typically 10 min, ~10–13 slides | Touying Typst (`university` or `metropolis` theme) |
+| `presentation` | Oral Presentation | slide count based on user's time limit | Touying Typst (`university` or `metropolis` theme) |
 
 **Auto-detect from cues:**
 - `ilm` template, "report", "100 pages", "appendix", List of Symbols/Figures → **report**
